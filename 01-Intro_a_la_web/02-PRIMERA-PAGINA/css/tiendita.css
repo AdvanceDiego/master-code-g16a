@@ -5,12 +5,13 @@ body{
 }
 header{
     background-color: darkgreen;
-    border-top-color: red solid 10px;
-    border-bottom-color: red solid 10px;
-    border-left-color: red solid 10px;
-    border-right-color: red solid 10px;
 }
 
 nav{
-    border-top-color: red;
+    border-top: red solid 25px;
+    border-bottom: red solid 25px;
+    border-left: red solid 25px;
+    border-right: red solid 25px;
+    
+
 }

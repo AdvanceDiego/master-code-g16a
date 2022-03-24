@@ -10,7 +10,7 @@ header{
 }
 section{
     background-color: yellowgreen;
-    border-color:royalblue;
+    border: royalblue solid ;
     width: 50%;
 
 }
