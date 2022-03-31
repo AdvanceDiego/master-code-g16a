@@ -161,3 +161,8 @@ main{
 .grid-gallery__image{
     border-radius: 25px;
 }
+.grid-gallery__image:hover{
+    background-color: grey;
+    filter: brightness(40%);
+    
+}
